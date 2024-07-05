@@ -1,0 +1,20 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 4
+
+login: VerunchicIV
+password: 160376b6dd
+
+title_name: Hello
+description_name: world
+content_name: Hello world!
+
+your_name: Dima
+your_email: dima_dima@gmail.com
+your_content: Hello world!
+
+url_login: https://test-stand.gb.ru/gateway/login
+url_posts: https://test-stand.gb.ru/api/posts
+
+login_1: Raya00
+password_1: cb103167f2
